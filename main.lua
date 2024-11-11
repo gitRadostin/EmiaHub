@@ -1,8 +1,9 @@
 --[[
-EmiaHub
-Made by didyzzy_42798
-https://github.com/gitRadostin/EmiaHub
+      EmiaHub☘
+      Script made by didyzzy_42798
+      https://github.com/gitRadostin/EmiaHub
 ]]
+
 
 local Library = loadstring(game:HttpGet("https://raw.githubusercontent.com/xHeptc/Kavo-UI-Library/main/source.lua"))()
 
