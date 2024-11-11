@@ -7,5 +7,5 @@ I did not make this script. The full credit goes to the original author: `didyzz
 
 **Loadstring:**
 ```lua
-loadstring(game:HttpGet("URL HERE",true))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/gitRadostin/EmiaHub/main/main.lua",true))()
 ```
