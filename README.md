@@ -1,9 +1,11 @@
 # EmiaHub☘
-A script for Roblox.
+_A script for Roblox._
 
-I did not make this script. The full credit goes to the original author: `didyzzy_42798` Discord
+I did not make this script. The full credit goes to the original author: `didyzzy_42798` (Discord)
 
-Loadstring:
+----------------------------
+
+**Loadstring:**
 ```lua
 loadstring(game:HttpGet("URL HERE",true))()
 ```
